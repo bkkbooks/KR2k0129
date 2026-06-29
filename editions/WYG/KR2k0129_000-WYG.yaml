@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0129/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0129_WYG_000-1a, image: WYG0592/WYG0592-0827a.png}
+body:
+  text: 嶺南風物記地理類八雜記之屬提要臣等謹案嶺南風物記一卷國朝呉綺撰宋俊増補江闓刪訂綺本文士故是書所敘述率簡雅不支與范成大桂海虞衡志可相伯仲首二條敘氣候次十條敘石次六十條敘草木花竹次十七條叙鳥次五條叙獸次六條叙蟲次十七條叙鱗介次三條叙香次二條叙酒次四條叙蔬穀次十五條以雜事附叙於末其叙硯叙香特詳核惟碣石衛品字石一條宜入卷末雜事中殆分段編次偶失序耳俊所增補凡七條皆别識之其論米芾所賞之石本出浛洭縣地秋深水涸之時於沙坑中取之謂之脱沙後浛洭併入英徳遂以英徳石當之實皆􅎓物亦前人所未發惟闓所刪者今不復見其刋除當否遂不可考矣綺有林恵集别著録俊字長白山陰人闓字辰六貴陽人也乾隆四十五年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:3c07929f99d23d74f684fa955ad38f51ad246ea7cabe6f1f34735cd2f1808685
+metadata:
+  title: 嶺南風物記
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:46:44.275293'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0129/KR2k0129_000.txt
+hash: sha256:700cbc3f4ded6ebdfd11b08693c83e5d6b3c520cf7ff674d161e34a9516faccd

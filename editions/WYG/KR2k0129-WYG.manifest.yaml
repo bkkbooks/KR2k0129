@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR2k0129_000-WYG.yaml, hash: 'sha256:700cbc3f4ded6ebdfd11b08693c83e5d6b3c520cf7ff674d161e34a9516faccd'}
   - {seq: 1, filename: KR2k0129_001-WYG.yaml, hash: 'sha256:da2302d73b29c75cc056d6978b7796d2d6b8d3b0288569d317aaff21b7154996'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0129_000-WYG.markers.yaml, hash: 'sha256:b9314659def6c31f41cf36ab0adabcd1c161b996452d8905b0e97c55a469659d'}
+  - {seq: 0, role: markers, filename: assets/KR2k0129_000-WYG.markers.yaml, hash: 'sha256:209c692143c34ad7d476caf3b8a52d0a5fb3bdf16e4940ef5d2c4512114fc6bd'}
   - {seq: 1, role: markers, filename: assets/KR2k0129_001-WYG.markers.yaml, hash: 'sha256:932ac456701e689a1c9698e60b59329f942a072d45c986af355d95cf7b4b52e1'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 嶺南風物記
   type: section
   level: 1
-hash: sha256:b45ffb68cfc88738b20ef534e69b1ff0532bd0ba860cbadc502dcf1929d6a930
+hash: sha256:6a820b8aa73be8109acca69355d56e4df91abd11fdf356e03d14092576e7163f
